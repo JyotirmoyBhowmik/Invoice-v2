@@ -1,0 +1,4 @@
+{
+  "name": "Extracto Enterprise - Universal Mailbox, OCR & ERP Template Automation",
+  "description": "Production-grade enterprise invoice automation platform supporting multi-tenant mailboxes (MS Graph, EWS, IMAP, Gmail), Vertex AI Agent Builder & Gemini 2.5 Flash OCR, dynamic CSV/Fixed-Width ERP template mappers, accounting reconciliation, and administrative control panel."
+}
